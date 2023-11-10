@@ -1,0 +1,21 @@
+=====================Initializing Db=====================
+
+UAV 1 Add to DB 0
+UAV 2 Add to DB 1
+UAV raw hash 0
+get C R pair from DB 0
+generated Q 0
+Generated Nonce : 7917
+Q: 6422
+Response from Registration Service 41
+Response from Registration Service 41
+UAV 1 GS Auth 46
+UAV raw hash 0
+get C R pair from DB 0
+generated Q 0
+Generated Nonce : 27928
+Q: 26648
+Response from Registration Service 4
+Response from Registration Service 4
+UAV 2 GS Auth 5
+UAV auth session key generation 14
